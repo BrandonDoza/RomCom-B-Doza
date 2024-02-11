@@ -208,11 +208,11 @@ function saveCover() {
     var urlInput = prompt('image url must contain https://')
     userImageInput.value = urlInput;
   }
-  if (userDesc1Input.value === '' || 'A Tale Of...') {
+  if (userDesc1Input.value === '' || userDesc1Input.value === 'A Tale Of...') {
     var desc1 = prompt('Please Enter A Descriptor');
     userDesc1Input.value = desc1;
   }
-  if (userDesc2Input.value === '' || 'and...') {
+  if (userDesc2Input.value === '' || userDesc2Input.value === 'and...') {
     var desc2 = prompt('Please Enter A Descriptor');
     userDesc2Input.value = desc2;
   }
