@@ -1,5 +1,13 @@
 Abstract:
-This web app generates book covers. Users would like to generate book covers at random and with their own data. This app solves t his problem, by letting users select multiple ways to create book covers, either randomly generating them, or inputting their own data. It also allows users to save them for later viewing. 
+This web app generates book covers. Users would like to generate book covers at random and with their own data. This app solves t his problem, by letting users select multiple ways to create book covers, either randomly generating them, or inputting their own data. It also allows users to save them for later viewing.
+
+Use Instructions:
+- visit https://github.com/BrandonDoza/RomCom-B-Doza
+- fork the repository
+- under the code button, choose your method of either HTTPS or SSH
+- in the terminal on your computer, direct yourself to the directory you wish to clone to.
+- type in git clone and paste your chosen code (HTTPS or SSH)
+- open the code in your prefered text editor
 
 Preview of App:
 ![Alt text](<Screenshot 2024-02-11 at 12.22.46 PM.png>)
