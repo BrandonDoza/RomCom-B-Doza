@@ -2,6 +2,7 @@ Abstract:
 This web app generates book covers. Users would like to generate book covers at random and with their own data. This app solves t his problem, by letting users select multiple ways to create book covers, either randomly generating them, or inputting their own data. It also allows users to save them for later viewing. 
 
 Preview of App:
+![Alt text](<Screenshot 2024-02-11 at 12.22.46 PM.png>)
 
 Context:
 This project took me approximately 9 hours to complete. I am about 3 months into my coding journey at Turing 
